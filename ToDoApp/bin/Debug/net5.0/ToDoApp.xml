@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ToDoApp.WebApi</name>
+    </assembly>
+    <members>
+        <member name="M:ToDoApp.WebApi.Controllers.CategoryController.GetCategories">
+            <summary>
+            Get All Categories 
+            </summary>
+            <returns></returns>
+            
+        </member>
+        <member name="M:ToDoApp.WebApi.Controllers.CategoryController.GetCategory(System.Int32)">
+            <summary>
+            Get Individual Category
+            </summary>
+            <param name="categoryId">The Id of Category</param>
+            <returns></returns>
+                    
+        </member>
+        <member name="M:ToDoApp.WebApi.Controllers.CategoryController.Create(ToDoApp.WebApi.Models.DTOs.CategoryDTO)">
+            <summary>
+            Create Category
+            </summary>
+            <param name="categoryDTO">Category</param>
+            <returns></returns>
+               
+        </member>
+        <member name="M:ToDoApp.WebApi.Controllers.CategoryController.Update(System.Int32,ToDoApp.WebApi.Models.DTOs.CategoryDTO)">
+            <summary>
+            Update category
+            </summary>
+            <param name="categoryId">The Id of category</param>
+            <param name="categoryDTO">The Id of category</param>
+            <returns></returns>
+             
+        </member>
+        <member name="M:ToDoApp.WebApi.Controllers.CategoryController.Delete(System.Int32)">
+            <summary>
+            Delete category
+            </summary>
+            <param name="categoryId">The Id of category</param>
+            <returns></returns>
+              
+        </member>
+        <member name="M:ToDoApp.WebApi.Controllers.ToDoListController.GetToDoLists">
+            <summary>
+            Get All Lists 
+            </summary>
+            <returns></returns>
+            
+        </member>
+        <member name="M:ToDoApp.WebApi.Controllers.ToDoListController.GetToDoList(System.Int32)">
+            <summary>
+            Get Individual List
+            </summary>
+            <param name="toDoListId">The Id of List</param>
+            <returns></returns>
+                    
+        </member>
+        <member name="M:ToDoApp.WebApi.Controllers.ToDoListController.Create(ToDoApp.WebApi.Models.DTOs.ToDoListDTO)">
+            <summary>
+            Create List
+            </summary>
+            <param name="toDoListDTO">The Id of List</param>
+            <returns></returns>
+               
+        </member>
+        <member name="M:ToDoApp.WebApi.Controllers.ToDoListController.Update(System.Int32,ToDoApp.WebApi.Models.DTOs.ToDoListDTO)">
+            <summary>
+            Update List
+            </summary>
+            <param name="toDoListId">The Id of List</param>
+            <param name="toDoListDTO">The Id of List</param>
+            <returns></returns>
+             
+        </member>
+        <member name="M:ToDoApp.WebApi.Controllers.ToDoListController.Delete(System.Int32)">
+            <summary>
+            Delete List
+            </summary>
+            <param name="toDoListId">The Id of List</param>
+            <returns></returns>
+              
+        </member>
+        <member name="M:ToDoApp.Controllers.ToDoItemController.GetToDoItems">
+            <summary>
+            Get All Tasks 
+            </summary>
+            <returns></returns>
+            
+        </member>
+        <member name="M:ToDoApp.Controllers.ToDoItemController.GetToDoItem(System.Int32)">
+            <summary>
+            Get Individual Task
+            </summary>
+            <param name="taskId">The Id of Task</param>
+            <returns></returns>
+                    
+        </member>
+        <member name="M:ToDoApp.Controllers.ToDoItemController.Create(ToDoApp.WebApi.Models.DTOs.ToDoItemDTO)">
+            <summary>
+            Create Task
+            </summary>
+            <param name="taskDTO">The Id of Task</param>
+            <returns></returns>
+               
+        </member>
+        <member name="M:ToDoApp.Controllers.ToDoItemController.Update(System.Int32,ToDoApp.WebApi.Models.DTOs.ToDoItemDTO)">
+            <summary>
+            Update Task
+            </summary>
+            <param name="taskId">The Id of Task</param>
+            <param name="taskDTO">The Id of Task</param>
+            <returns></returns>
+             
+        </member>
+        <member name="M:ToDoApp.Controllers.ToDoItemController.Delete(System.Int32)">
+            <summary>
+            Delete Task
+            </summary>
+            <param name="taskId">The Id of Task</param>
+            <returns></returns>
+              
+        </member>
+    </members>
+</doc>

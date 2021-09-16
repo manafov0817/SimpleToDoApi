@@ -1,0 +1,12 @@
+D:\Programming\ATL\ToDoApp.Data\bin\Debug\net5.0\ToDoApp.Data.deps.json
+D:\Programming\ATL\ToDoApp.Data\bin\Debug\net5.0\ToDoApp.Data.dll
+D:\Programming\ATL\ToDoApp.Data\bin\Debug\net5.0\ref\ToDoApp.Data.dll
+D:\Programming\ATL\ToDoApp.Data\bin\Debug\net5.0\ToDoApp.Data.pdb
+D:\Programming\ATL\ToDoApp.Data\obj\Debug\net5.0\ToDoApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\ATL\ToDoApp.Data\obj\Debug\net5.0\ToDoApp.Data.AssemblyInfoInputs.cache
+D:\Programming\ATL\ToDoApp.Data\obj\Debug\net5.0\ToDoApp.Data.AssemblyInfo.cs
+D:\Programming\ATL\ToDoApp.Data\obj\Debug\net5.0\ToDoApp.Data.csproj.CoreCompileInputs.cache
+D:\Programming\ATL\ToDoApp.Data\obj\Debug\net5.0\ToDoApp.Data.dll
+D:\Programming\ATL\ToDoApp.Data\obj\Debug\net5.0\ref\ToDoApp.Data.dll
+D:\Programming\ATL\ToDoApp.Data\obj\Debug\net5.0\ToDoApp.Data.pdb
+D:\Programming\ATL\ToDoApp.Data\obj\Debug\net5.0\ToDoApp.Data.csproj.AssemblyReference.cache
